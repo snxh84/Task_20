@@ -33,5 +33,4 @@ subscription, and footer.
 2. Click **Add Items** to add a service to your cart.
 3. Click **Remove Now** to remove a service from your cart.
 4. Fill in your details and click **Book Now**.
-5. To enable real email confirmations, replace the placeholder EmailJS
-   values in `script.js` with your own keys.
+
